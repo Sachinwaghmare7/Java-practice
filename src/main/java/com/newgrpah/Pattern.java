@@ -18,9 +18,6 @@ public class Pattern {
 			
 		}
 
-	
-
-		// TODO Auto-generated method stub
 
 	}
 
